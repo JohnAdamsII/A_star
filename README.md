@@ -11,7 +11,7 @@ The program will prompt the user for input.
 The program catches invalid input and requires the user to re-enter.
 
 ### Modules:
-	#### Map.py - 
+	 Map.py - 
 		contains the Map class to store and operate on maps
 		contains the implementation of the A* algorithm
 	
