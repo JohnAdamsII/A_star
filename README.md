@@ -1,11 +1,11 @@
 A* is a heuristic based graph traversal algorithm to find the best shortest path between two points. 
 It is commonly used in GPS and navigation systems.
 
-*Program Name: A_Star.py*
+# Program Name: A_Star.py
 
-Authors: Tyler Hanks and John Adams
+## Authors: Tyler Hanks and John Adams
 
-Command to execute: python3 A_Star.py
+## Command to execute: python3 A_Star.py
 
 The program will prompt the user for input.
 The program catches invalid input and requires the user to re-enter.
